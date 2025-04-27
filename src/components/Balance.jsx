@@ -6,7 +6,7 @@ import walledIconView from '../assets/walled-icon-view.png';
 function Balance () {
     return (
         <>
-            <div className="container">
+            <div className="container mb-2">
 
                 <div className="row">
                     <div className="col-auto">

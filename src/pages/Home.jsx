@@ -4,7 +4,7 @@ import Tables from "../components/Tables";
 import Hero from "../components/hero";
 import Navbar from "../components/navbar";
 
-function Home () {
+function Home() {
     return (
         <>
             <div className="bg-light">

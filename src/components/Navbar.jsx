@@ -1,5 +1,5 @@
 import logo from '../assets/walled-logo.png';
-import dayNight from '../assets/walled-icon-daynight.png'
+import dayNightIcon from '../assets/walled-icon-daynight.png'
 
 function Navbar() {
     return (
@@ -32,7 +32,7 @@ function Navbar() {
                     <div className="vr mx-2"></div>
 
                     <button className="btn">
-                        <img src={dayNight} alt="Icon" width="24" height="24" />
+                        <img src={ dayNightIcon } alt="Icon" width="24" height="24" />
                     </button>
 
 
